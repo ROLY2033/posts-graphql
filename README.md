@@ -1,4 +1,4 @@
-#Post graphQL
+# Post graphQL
 
 -Crear Post
 ![image](https://user-images.githubusercontent.com/95943858/234611741-bcc690c1-c9e0-47e9-9b8b-60a7ceeeeb9a.png)
