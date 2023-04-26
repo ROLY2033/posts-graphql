@@ -1,3 +1,7 @@
+#tecnologias en uso
+laravel :  Es un framework de PHP para ayudarnos en un tipo de desarrollo sobre aplicaciones escritas en este lenguaje de programación
+Lighthouse: Es un framework para servir GraphQL desde Laravel
+
 # Post graphQL
 
 -Crear Post
