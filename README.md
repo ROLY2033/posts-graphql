@@ -2,7 +2,7 @@
 
 ### Tecnologias en uso
 <br>
-<strong>laravel</strong>:  Es un framework de PHP para ayudarnos en un tipo de desarrollo sobre aplicaciones escritas en este lenguaje de programación.<br>
+<strong>Laravel</strong>:  Es un framework de PHP para ayudarnos en un tipo de desarrollo sobre aplicaciones escritas en este lenguaje de programación.<br>
 <strong>Lighthouse</strong>: Es un framework para servir GraphQL desde Laravel<br><br>
 
 
