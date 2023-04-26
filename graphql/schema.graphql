@@ -24,7 +24,6 @@ type Query {
 
 # para borrar el bos es colocar en senencia @eq
 # https://www.golinuxcloud.com/create-graphql-api/
-
 type  Mutation{
     createPost(author_id: Int!, title: String, content: String): Post @create
     updatePost(id: ID!, author_id: Int, title: String!, content: String): Post @update
